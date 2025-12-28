@@ -1,0 +1,34 @@
+{
+  "_comment": "Example configuration for Automated News Website - Replace with your own keys",
+  "blogger": {
+    "blog_id": "your_blogger_blog_id",
+    "api_key": "your_blogger_api_key",
+    "use_oauth": true,
+    "_note": "API key only allows reading. For posting, either use OAuth or make API key unrestricted in Google Cloud Console"
+  },
+  "facebook": {
+    "page_id": "your_facebook_page_id",
+    "access_token": "your_facebook_access_token",
+    "_note": "Get page ID and token from: https://developers.facebook.com/tools/explorer/",
+    "_setup_guide": "See FACEBOOK_SETUP.md for detailed instructions"
+  },
+  "api_keys": {
+    "newsapi_key": "your_newsapi_key",
+    "_newsapi_note": "Get free key from: https://newsapi.org/",
+    "openai_api_key": "your_openai_api_key",
+    "_openai_note": "Get from: https://platform.openai.com/api-keys",
+    "anthropic_api_key": "your_anthropic_key",
+    "_anthropic_note": "Optional - Get from: https://console.anthropic.com/",
+    "unsplash_api_key": "your_unsplash_key",
+    "_unsplash_note": "Optional - Get from: https://unsplash.com/developers"
+  },
+  "news_settings": {
+    "country": "us",
+    "categories": ["general", "technology", "business", "entertainment", "health"],
+    "sources": ["newsapi", "google", "reddit"],
+    "_category_note": "Categories: general, business, entertainment, health, science, sports, technology"
+  },
+  "article_settings": {
+    "article_word_count": 1000
+  }
+}

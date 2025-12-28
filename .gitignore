@@ -1,0 +1,12 @@
+# Ignore sensitive and environment-specific files
+config.json
+client_secret.json
+blogger_token.pickle
+*.pickle
+*.log
+logs/
+.env
+*.env
+__pycache__/
+*.pyc
+.DS_Store
