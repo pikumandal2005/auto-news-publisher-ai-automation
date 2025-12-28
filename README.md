@@ -1,7 +1,28 @@
+
+<p align="center">
+	<img src="https://placehold.co/600x120/222/fff?text=Auto+News+Publisher+AI+Automation" alt="Project Logo" style="max-width: 100%;">
+</p>
+
 # Auto News Publisher AI Automation
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+<p align="center">
+	<a href="https://github.com/pikumandal2005/auto-news-publisher-ai-automation/stargazers"><img src="https://img.shields.io/github/stars/pikumandal2005/auto-news-publisher-ai-automation?style=social" alt="GitHub stars"></a>
+	<a href="https://github.com/pikumandal2005/auto-news-publisher-ai-automation/issues"><img src="https://img.shields.io/github/issues/pikumandal2005/auto-news-publisher-ai-automation?color=blue" alt="GitHub issues"></a>
+	<a href="https://github.com/pikumandal2005/auto-news-publisher-ai-automation/network/members"><img src="https://img.shields.io/github/forks/pikumandal2005/auto-news-publisher-ai-automation?color=green" alt="GitHub forks"></a>
+	<a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License"></a>
+	<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.8%2B-blue.svg" alt="Python"></a>
+</p>
+## 📞 Contact & Hire Me
+
+<ul>
+	<li><b>Phone:</b> <a href="tel:+919609916732">+91-9609916732</a></li>
+	<li><b>Email:</b> <a href="mailto:pikumandal5233@gmail.com">pikumandal5233@gmail.com</a></li>
+	<li><b>GitHub:</b> <a href="https://github.com/pikumandal2005">pikumandal2005</a></li>
+</ul>
+
+<p align="center">
+	<b>Open to freelance, remote, and full-time opportunities!</b>
+</p>
 
 ## 🚀 Project Overview
 
